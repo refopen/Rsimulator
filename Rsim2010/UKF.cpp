@@ -1,3 +1,5 @@
+// refopen.blogspot.com
+//
 //cvCloneMat, cvCloneImage 를 사용할 때 주의해야 한다.
 //포인터를 생성하는 순간 copy되지 않으면 새로운 구조체를 할당하기 때문에
 //CvMat *temp = cvCloneMat(src); 와 같이 사용해야한다.

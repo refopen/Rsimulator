@@ -1,3 +1,9 @@
+// refopen.blogspot.com
+//
+// robot.cpp: implementation of the robot class.
+//
+//////////////////////////////////////////////////////////////////////
+
 #include "stdafx.h"
 #include <afxpriv.h>
 

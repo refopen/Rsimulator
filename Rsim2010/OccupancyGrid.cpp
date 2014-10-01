@@ -1,3 +1,9 @@
+// refopen.blogspot.com
+//
+// OccupancyGrid.cpp: implementation of the OccupancyGrid class.
+//
+//////////////////////////////////////////////////////////////////////
+
 #include "StdAfx.h"
 #include "OccupancyGrid.h"
 #include "robot.h"

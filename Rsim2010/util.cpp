@@ -1,3 +1,9 @@
+// refopen.blogspot.com
+//
+// util.cpp: implementation of the util class.
+//
+//////////////////////////////////////////////////////////////////////
+
 #include "stdafx.h"
 #include "util.h"
 
