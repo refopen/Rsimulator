@@ -5,7 +5,7 @@ Mobile Robot Simulator
 
 ### Project web-site
 
-[Rsimulator](http://refopen.blogspot.com/)
+[Rsimulator](http://refopen.blogspot.com/2014/10/rsimulator.html)
 
 ### Introduction
 
