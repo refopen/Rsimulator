@@ -15,6 +15,8 @@
 // double sdir[3] = {42.4, 0.0, -42.4};
 
 
+// 이 줄은 github 테스트 메시지 입니다.
+
 
 OccupancyGrid::OccupancyGrid(void)
 : Map(NULL)
